@@ -1,0 +1,13 @@
+C:\Users\RAJEEV\source\repos\LinqAssignment\obj\Debug\netcoreapp3.1\LinqAssignment.csprojAssemblyReference.cache
+C:\Users\RAJEEV\source\repos\LinqAssignment\obj\Debug\netcoreapp3.1\LinqAssignment.csproj.CoreCompileInputs.cache
+C:\Users\RAJEEV\source\repos\LinqAssignment\obj\Debug\netcoreapp3.1\LinqAssignment.AssemblyInfoInputs.cache
+C:\Users\RAJEEV\source\repos\LinqAssignment\obj\Debug\netcoreapp3.1\LinqAssignment.AssemblyInfo.cs
+C:\Users\RAJEEV\source\repos\LinqAssignment\bin\Debug\netcoreapp3.1\LinqAssignment.exe
+C:\Users\RAJEEV\source\repos\LinqAssignment\bin\Debug\netcoreapp3.1\LinqAssignment.deps.json
+C:\Users\RAJEEV\source\repos\LinqAssignment\bin\Debug\netcoreapp3.1\LinqAssignment.runtimeconfig.json
+C:\Users\RAJEEV\source\repos\LinqAssignment\bin\Debug\netcoreapp3.1\LinqAssignment.runtimeconfig.dev.json
+C:\Users\RAJEEV\source\repos\LinqAssignment\bin\Debug\netcoreapp3.1\LinqAssignment.dll
+C:\Users\RAJEEV\source\repos\LinqAssignment\bin\Debug\netcoreapp3.1\LinqAssignment.pdb
+C:\Users\RAJEEV\source\repos\LinqAssignment\obj\Debug\netcoreapp3.1\LinqAssignment.dll
+C:\Users\RAJEEV\source\repos\LinqAssignment\obj\Debug\netcoreapp3.1\LinqAssignment.pdb
+C:\Users\RAJEEV\source\repos\LinqAssignment\obj\Debug\netcoreapp3.1\LinqAssignment.genruntimeconfig.cache
